@@ -1,0 +1,26 @@
+appdirs==1.4.4
+asgiref==3.3.1
+boto3==1.16.30
+botocore==1.19.30
+distlib==0.3.1
+dj-database-url==0.5.0
+Django==3.1.3
+django-ckeditor==6.0.0
+django-crispy-forms==1.10.0
+django-heroku==0.3.1
+django-js-asset==1.2.2
+django-s3-collectstatic @ git+git://github.com/AGoodId/django-s3-collectstatic.git@baf18403f629762a63726e976848e98e79766201
+django-storages==1.10.1
+filelock==3.0.12
+gunicorn==20.0.4
+jmespath==0.10.0
+Pillow==8.0.1
+psycopg2==2.8.6
+python-dateutil==2.8.1
+pytz==2020.4
+s3transfer==0.3.3
+six==1.15.0
+sqlparse==0.4.1
+urllib3==1.26.2
+virtualenv==20.2.1
+whitenoise==5.2.0
